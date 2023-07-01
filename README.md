@@ -42,5 +42,5 @@ Day by day people get a lot of sms, In those sms include are spam and helpful me
 
 ## <br>➲ CONCLUSION
 
-This project successfully classified messages into spam and ham  with an accuracy of around 97% and precison of 100%.
+This project successfully classified messages into spam and ham  with an accuracy of around 97% and precision of 100%.
 
