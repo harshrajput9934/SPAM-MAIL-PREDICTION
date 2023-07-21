@@ -18,8 +18,9 @@ Day by day people get a lot of sms, In those sms include are spam and helpful me
 
 ## <br>➲ OVERALL PROCESS
 
+![overall process](https://github.com/harshrajput9934/SPAM-MAIL-PREDICTION/assets/90636720/b2cfbfdd-83b1-4e4a-9a8c-d4e79b0e7a01)
 
-![email prediction process](https://github.com/harshrajput9934/SPAM-MAIL-PREDICTION/assets/90636720/1c1dee67-fbca-49a8-8d7f-395e2704c89b)
+
 
 
 ## <br>➲ ACCURACY AND PRECISION SCORE
